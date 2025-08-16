@@ -1,0 +1,12 @@
+- Alterar visto (Menu) = Ok
+- Avaliar e review (Menu) = Ok
+- Listagem (Menu) = Ok
+- Cadastrar Midias no Obras.Acervo = OK
+- Avaliar (Precisa alterar visto antes) = Ok
+- Review (Precisa alterar visto e avaliar antes) = Ok
+- Calculo Media de Avaliação das Series = OK
+- Teste
+- JavaDoc
+- Video
+- Listagem Crescente e Decrescente = Ok
+- Cadastro Ordenado = Ok
